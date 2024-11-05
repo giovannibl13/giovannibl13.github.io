@@ -1,0 +1,134 @@
+body {
+    background: #333;
+    background-image: url("../img/papelfundo.jpg");
+    background-size: 1870px;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: "Oxanium" , sans-serif;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 1);
+}
+h1 {
+    color: black;
+    background-color: rgb(255, 103, 0);
+    font-size: 50px;
+    text-align: center;
+    border: 2px solid black;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 1);        
+}
+h2 {
+	background-color: rgb(255, 103, 0);
+	border: 2px solid black;
+	font-size: 30px;
+    text-align: center;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 1);
+    color: #000000;
+    margin: 10px;
+}
+p{
+	color:dark;
+	background-color: rgb(255, 103, 0);
+	border: 2px solid black;
+    width: 99%; 
+    text-align: center;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 1);
+}
+img {
+	border-radius: 50px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 1);
+
+}
+nav ul {
+    padding: 0;
+    display: flex;
+    justify-content: center; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 1);
+}
+nav ul li {
+    margin-right: 20px; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 1);
+}
+footer {
+    text-align: center;
+    padding: 10px 0; 
+    background: #333;
+    color: white;
+    position: relative; 
+    bottom: 0; 
+    width: 100%; 
+}
+.fundo {
+
+}
+.mensagem {
+    color: black;
+    background-color: rgb(255, 103, 0);
+    font-size: 20px;
+    text-align: center;
+    border: 2px solid black;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 1);
+}
+.whatsapp-button {
+    width: 30%;
+    padding: 20px;
+    border: 2px solid black; #ccc;
+    text-align: left;
+    background-color: rgb(255, 103, 0);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 1);
+}
+.box {
+    width: 20%; 
+    margin: 0 auto;
+    padding: 20px;
+    background-color: rgb(255, 103, 0);
+    color: black;
+     border: 2px solid black; #ccc;
+    text-align: center;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 1);
+    border-radius: 10px;
+}
+.box1 {
+    width: 97%; 
+    margin: 0 auto; 
+    padding: 20px;
+    background-color: rgb(255, 103, 0);
+    color: black;
+    text-align: center;
+    border: 2px solid black; #ccc;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 1);
+    border-radius: 10px;
+    margin: 10px;
+}
+.box2 {
+    width: 98%; 
+    margin: 0 auto; 
+    padding: 20px;
+    background-color: rgb(255, 103, 0);#
+    color: black;#
+    text-align: center;#
+    border: 2px solid black; #ccc;
+    background-image: url("../img/papelfundo.jpg");
+    box-shadow: 0 0 10px rgba(0, 0, 0, 1);
+    border-radius: 10px;
+}
+.box3 {
+    width: 20%;
+    margin: 0 auto; 
+    padding: 20px;
+    background-color: rgb(255, 103, 0);
+    color: black;
+     border: 2px solid black; #ccc;
+    text-align: center;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 1);
+    border-radius: 10px;
+}
+.box4 {
+    width: 98%; 
+    margin: 0 auto; 
+    padding: 10px;
+    background-color: rgb(255, 103, 0);
+    color: black;
+    text-align: center;
+    border: 2px solid black; #ccc;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 1);
+    border-radius: 10px;
+}
