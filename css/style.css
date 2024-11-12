@@ -75,12 +75,7 @@ footer {
 }
 
 .whatsapp-button {
-    width: 30%;
-    padding: 20px;
-    border: 2px solid black;
-    text-align: left;
-    background-color: rgb(255, 103, 0);
-    box-shadow: 0 0 10px rgba(0, 0, 0, 1);
+    
 }
 
 .box, .box3 {
